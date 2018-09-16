@@ -1,0 +1,30 @@
+_repo: Unique-Ghost-Towns-and-Mountain-Spots_51678
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Peterson, Daniel K.
+    gutenberg_agent_id: '49111'
+    url: http://www.gutenberg.org/2009/agents/49111
+creator:
+  author:
+    agent_name: Bancroft, Caroline
+    gutenberg_agent_id: '46149'
+    url: http://www.gutenberg.org/2009/agents/46149
+    wikipedia: https://en.wikipedia.org/wiki/Caroline_Bancroft
+description: ''
+gutenberg_issued: '2016-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51678'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cities and towns -- Colorado'
+- !lcsh 'Colorado -- Guidebooks'
+- !lcsh 'Extinct cities -- Colorado'
+- !lcc 'F721'
+- GITenberg
+title: Unique Ghost Towns and Mountain Spots
+url: http://www.gutenberg.org/ebooks/51678
